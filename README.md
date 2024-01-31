@@ -11,7 +11,7 @@ For our project, we opted for the data engineering pathway, directing our attent
 
 -SQL was used to house the data
 
--The database contained 3 tables (Books, Prices, Rating) 
+-The database contained 3 tables (books, ratings, prices) 
 
 -ERD was created
 
