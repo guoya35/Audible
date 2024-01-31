@@ -16,7 +16,8 @@ For our project, we opted for the data engineering pathway, directing our attent
 -ERD was created
 
 
-![QuickDBD-crowdfunding_db_schema (1)](https://github.com/guoya35/Audible/assets/141586099/6b44c9a2-7e99-4657-9ea5-70a2a6970c08)
+![Screenshot 2024-01-30 at 9 13 32 PM](https://github.com/guoya35/Audible/assets/141586099/48d840b8-5bfb-4181-8ba1-2d9f3ca5046b)
+
 
 ## Why SQL was used
 SQL was chosen as the preferred tool for managing the Audible data due to its robust querying capabilities, structured data handling, and scalability. SQL databases provide built-in mechanisms for ensuring data integrity and consistency, essential for maintaining accurate records of authors, titles, and other attributes.
