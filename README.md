@@ -7,7 +7,7 @@ For our project, we opted for the data engineering pathway, directing our attent
 ## Steps
 -The ETL workflow was followed
 
--The original dataset (under audbile_uncleaned.csv) was transformed prior to storing it in the database
+-The original dataset (under audbile_uncleaned.csv) was transformed (under audible.ipynb) prior to storing it in the database
 
 -SQL was used to house the data
 
