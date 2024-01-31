@@ -14,6 +14,8 @@ For our project, we opted for the data engineering pathway, directing our attent
 -The database contained 3 tables
 
 -ERD was created
+
+
 ![QuickDBD-crowdfunding_db_schema (1)](https://github.com/guoya35/Audible/assets/141586099/6b44c9a2-7e99-4657-9ea5-70a2a6970c08)
 
 ## Why SQL was used
